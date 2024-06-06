@@ -1,0 +1,1 @@
+Welcome to the Heart Disease Prediction repository! This project uses various machine learning techniques to predict the likelihood of heart disease based on patient data. The goal is to provide a reliable tool for early detection and diagnosis of heart disease, potentially aiding healthcare professionals in their decision-making process.
